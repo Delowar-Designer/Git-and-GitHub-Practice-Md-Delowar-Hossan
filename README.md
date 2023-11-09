@@ -1,5 +1,5 @@
-# Git-and-GitHub-Practice-Md-Delowar-Hossan
-![I am Software Engineering](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/272808404_229728119362841_8766696912720854433_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH1X3Ui0Y8JDggwAJSOvNdvUz2ttO5gnfVTPa207mCd9f59cJ6dZuOEVOt12CHkfUxh_Z_HXRBxkGZwJ_-EPnon&_nc_ohc=L5-7CWiJQYcAX9b5ZwC&_nc_ht=scontent.fdac157-1.fna&oh=00_AfBOTealg5Wgl1NR_4TSPAp5TvO52DC_Vtlr3IEcqPM7rQ&oe=654A3435)
+![](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/272443859_229808619354791_1594103879087834316_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHXDO99nw8TzSYHHm4lbEnScv77klebVWRy_vuSV5tVZHo3BEY9mbLRH8iF5UiL36lfBf8ZtOL-PdnYvgbycCOV&_nc_ohc=nWHUzAQ9ruYAX9AqM7Y&_nc_ht=scontent.fdac157-1.fna&oh=00_AfDoqYVQiBxkAIiCp8x2sJ1WYxhL6yLU8fkMmTvvRpveGw&oe=6551E0FB)
+
 # <h3 align="center">Aslamualai Hello there 👋</h3> 
 ## </h3> <h3 align="center">My Name is Md Delowar Hossan</h3>  
 #### <h3 align="center">I am Software Engineering</h3>
@@ -38,34 +38,19 @@ In each of my projects, I always follow Quality, Time, Quantity, my commitment t
 - 😄 Pronouns: Delowar.Designer 
 - ⚡ Fun fact:  Programming Languages 
 
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Delowar2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://www.tiktok.com/@delowar.designer?lang=en)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://www.linkedin.com/company/82771656/admin/feed/posts/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/delowar-designer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/delowar.designe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/delowar.designer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/DelowarDesigner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/delowar.designer@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://join.skype.com/invite/yOjXUCjuXbrh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://www.youtube.com/@basicitacademypro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@delowar.designer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.facebook.com/groups/delowar.designer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.youtube.com/@delowar.designerOfficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/274711695_246520577683595_6350990311635841413_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGzNneAONe0UBygDVJu1D2888JYJAC1sDnzwlgkALWwOYHiB76NBmIHNOXWZco0i6aE9vJy4qzvqKodd6ZJMx-S&_nc_ohc=ig0lmK4uDXQAX-xVxOg&_nc_ht=scontent.fdac157-1.fna&oh=00_AfC3oskpzjIa7PxIP20_bonSP1nZuElJ6yNjO8CrxNbWfQ&oe=654AE0EE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonalexa.svg' alt='amazonalexa' height='40'>](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/274711695_246520577683595_6350990311635841413_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGzNneAONe0UBygDVJu1D2888JYJAC1sDnzwlgkALWwOYHiB76NBmIHNOXWZco0i6aE9vJy4qzvqKodd6ZJMx-S&_nc_ohc=ig0lmK4uDXQAX-xVxOg&_nc_ht=scontent.fdac157-1.fna&oh=00_AfC3oskpzjIa7PxIP20_bonSP1nZuElJ6yNjO8CrxNbWfQ&oe=654AE0EE)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<h3 align="left"></h3>
-<p align="left">
-</p>
-
-
-
-
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Delowar2004)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Delowar2004)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -73,10 +58,10 @@ In each of my projects, I always follow Quality, Time, Quantity, my commitment t
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Delowar2004&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Delowar2004)  
+![](https://activity-graph.herokuapp.com/graph?username=Delowar2004)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Delowar2004)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Delowar2004)  
 
-![Profile views](https://gpvc.arturio.dev/Delowar2004)  
+![](https://gpvc.arturio.dev/Delowar2004)  
